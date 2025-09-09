@@ -10,23 +10,23 @@ else:
 
 
 
-light = "white"
-if(light == "grey"):
-   print("light")
+# light = "white"
+# if(light == "grey"):
+#    print("light")
 
-elif(light =="white"):
-   print("right")
+# elif(light =="white"):
+#    print("right")
 
-else:
-   print("yes")
+# else:
+#    print("yes")
 
 
-student = "tunnu sahni"
+# student = "tunnu sahni"
 
-if(student == "raja"):
-   print("student")
+# if(student == "raja"):
+#    print("student")
 
-elif(student =="tunnu saahni"):
-   print("yes")
-else:
-   print("end of the code")
+# elif(student =="tunnu saahni"):
+#    print("yes")
+# else:
+#    print("end of the code")

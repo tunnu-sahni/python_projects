@@ -16,10 +16,10 @@
 
 
 
-side = float(input("enter square side:"))
-print("area", side*side)
+# side = float(input("enter square side:"))
+# print("area", side*side)
 
 
 a = int(input("enter first:"))
 b = int(input("enter second:"))
-print(a>b)
+print(a<b)
