@@ -8,7 +8,7 @@ def update_time():
     label.after(1000, update_time)   #har 1 second baad time update karega
 
     #tkinter window
-root = tk.TK()
+root =  tk()
 root .title("digital clock")
 root . geometry("400x200")
 root . configure(bg="black")
