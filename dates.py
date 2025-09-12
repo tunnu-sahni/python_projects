@@ -37,8 +37,33 @@
 
 
 
+# import datetime
+
+# x = datetime.datetime(2018, 6, 1)
+
+# print(x.strftime("%B"))
+
+
+# import datetime
+
+# x = datetime.datetime(2025, 5, 2)
+
+
+# print(x.strftime("%b"))
+
+
+
+# import datetime
+
+# x = datetime.datetime.now()
+
+# print(x)
+
+
+
 import datetime
 
-x = datetime.datetime(2018, 6, 1)
+x = datetime.datetime(2025, 12, 1)
 
-print(x.strftime("%B"))
+
+print(x.strftime("%a"))
