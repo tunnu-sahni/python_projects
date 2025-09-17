@@ -40,6 +40,10 @@ def chatbot():
         elif "khana khane ke kitne minutes ke baad pani pina chahiye." in user:
             print("chatbot: dost khana khnae ke 45 minutes ke baad pani pina chahiye")
 
+        elif "bharat kab aazad hua tha" in user:
+            print("chatbot : apna bharat 26 jan 1950 ko aazad hua tha")
+
         else:
             print("chatbot: Mujhe ye samjh nahi aaya😂😎")
-chatbot()       
+chatbot()
+        

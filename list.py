@@ -25,9 +25,9 @@
 # print(list)
 
 
-list = [2,3,4,55,66,77,88]
-list.remove(3)
-print(list)
+# list = [2,3,4,55,66,77,88]
+# list.remove(3)
+# print(list)
 
 
 list = [23,4,5,66,77,5,5,4]

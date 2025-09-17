@@ -34,7 +34,15 @@
 
 
 
-i = 1
-while i<=100:
+# i = 1
+# while i<=100:
+#     print(i)
+#     i+=1 
+
+i = 3
+while 1<3:
     print(i)
-    i+=1 
+    break
+
+i+=1
+

@@ -34,18 +34,7 @@
 # print(f"do you want a {fav2} {fav1} with {fav3} legs?")
 
 
-# to find the square root converted into the number
-
-
-x = input("enter a number:")
-
-# find the square root of the number:
-
-y = math.sqrt(float(x))
-
-print(f"the square root of {x} is {y}")
-
-# validate input
+# to find the square root converted into the number:
 
 
 y = True

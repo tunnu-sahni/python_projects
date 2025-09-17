@@ -1,12 +1,12 @@
-light = "green"
-if(light == "red"):
-   print("stop")
+# light = "green"
+# if(light == "red"):
+#    print("stop")
 
-elif(light =='green'):
-   print("go")
+# elif(light =='green'):
+#    print("go")
 
-else:
-   print("end the code")
+# else:
+#    print("end the code")
 
 
 
@@ -30,3 +30,14 @@ else:
 #    print("yes")
 # else:
 #    print("end of the code")
+
+
+
+
+
+signal = "green"
+if(signal == "red"):
+    print("stop")
+
+elif(signal == "green"):
+    print("go")
