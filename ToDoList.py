@@ -19,12 +19,12 @@ while True:
     elif choice == "2":
         if not task:
             print("no task in the list.")
-
         else:
-            print("\nyour task:")
-            for i, task in:
-            (task, start=1):
-            print(f"{i}. {task}")
+
+            print("\n your task:")
+        for i, task in
+            (task, start=1)
+        print("no task in delete.")
     elif choice == "3":
         if not task:
             print("no task in delete")
@@ -42,4 +42,4 @@ while True:
         break
 
     else:
-        print("invalid choice please select 1-4.")
+         print("invalid choice please select 1-4.")
