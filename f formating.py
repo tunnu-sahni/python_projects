@@ -94,3 +94,9 @@ price = 59000
 txt = f"the price is {price: ,} dollars"
 
 print(txt)
+
+
+
+
+txt = f"the price is {56:.2f} dollars"
+print(txt)

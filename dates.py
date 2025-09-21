@@ -61,9 +61,22 @@
 
 
 
+# import datetime
+
+# x = datetime.datetime(2025, 12, 1)
+
+
+# print(x.strftime("%a"))
+
+
+
 import datetime
+x = datetime.datetime.now()
 
-x = datetime.datetime(2025, 12, 1)
-
-
+print(x.year)
 print(x.strftime("%a"))
+
+
+import datetime
+x = datetime.datetime(2023,3,4)
+print(x)
