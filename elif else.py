@@ -41,3 +41,41 @@ if(signal == "red"):
 
 elif(signal == "green"):
     print("go")
+
+
+
+
+light = "green"
+if(light == "red"):
+    print("stop")
+
+elif(light =="green" ):
+    print("go")
+
+else:
+    print("end of code")
+
+
+
+
+
+
+bus = "blue"
+if(bus == "red"):
+    print("stop")
+
+elif(bus == "blue"):
+    print("go")
+
+else:
+    print("end of code")
+
+
+
+
+manish = "ye mahina kharab gaya hai"
+if(manish == "ye mahina sahi gaya hai"):
+    print("manish")
+
+elif(manish == "ye mahina kharab gaya hai"):
+    print("yes")

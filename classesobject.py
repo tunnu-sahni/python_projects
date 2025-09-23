@@ -78,5 +78,3 @@
 
 # p1 = person("john",34)
 # p1.myfunc()
-
-

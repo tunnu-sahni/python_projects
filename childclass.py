@@ -75,9 +75,9 @@ class person:
             print(self.firstname, self.lastname)
 
 class student(person):
-    def __init__(self,fname, lanme):
+    def __init__(self,fname, lname):
         super().__init__(fname, lname)
         self.graduationyear = 2019
 
 x = student("tunnu", "sahni")
-print(x.graduationyear)
+print(x.graduationyear) 
