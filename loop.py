@@ -39,10 +39,53 @@
 #     print(i)
 #     i+=1 
 
-i = 3
-while 1<3:
-    print(i)
+# i = 3
+# while 1<3:
+#     print(i)
+#     break
+
+# i+=1
+
+
+
+
+
+# count = 0
+# while count <=5:
+#     print("tunnu")
+
+# count +=1
+
+
+
+i = 1
+while i<5:
+    print("sahni")
+
+    i+1
     break
 
-i+=1
+
+
+x = 13
+while i<=12:
+    print("tunnu")
+    i+=13
+    break
+
+
+
+flight = "white"
+if(flight == "yellow"):
+    print("stop")
+
+elif(flight == "white"):
+    print("yes")
+
+
+
+
+train = "sampoorna kranti"
+if(train == "sampoorna kranti"):
+    print("go")
 
