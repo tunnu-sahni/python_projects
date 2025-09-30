@@ -48,9 +48,7 @@
 # chatbot()
         
 
-
-
-# simple chatbot
+#simple chatbot
 
 def chatbot():
     print("chatbot: i am simple chatbot :")
