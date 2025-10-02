@@ -79,3 +79,19 @@ if(manish == "ye mahina sahi gaya hai"):
 
 elif(manish == "ye mahina kharab gaya hai"):
     print("yes")
+
+
+
+user_inp = input("enter the cmd: ")
+
+if user_inp == "red":
+    print("stop")
+
+elif user_inp == "yellow":
+    print("ready")
+
+elif user_inp == "green":
+    print("go")
+
+else:
+    print("invalid cmd")

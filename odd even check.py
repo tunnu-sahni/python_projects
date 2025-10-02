@@ -6,3 +6,12 @@ if(rem ==0):
 
 else:
     print("odd")
+
+
+nums = int(input("enter the number: "))
+rem = nums %2
+if(rem ==0):
+    print("even")
+
+else:
+    print("odd")
