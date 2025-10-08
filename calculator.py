@@ -46,8 +46,3 @@ while True:
 
     else:
         print("invalid input! please try again")
-
-
-
-
-

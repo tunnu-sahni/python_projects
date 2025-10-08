@@ -50,22 +50,74 @@
 
 #simple chatbot
 
+# def chatbot():
+#     print("chatbot: i am simple chatbot :")
+
+# while True:
+#     user_inp = input("you :")
+
+#     if user_inp == "hi"  or user_inp ==  "hello ":
+#         print("charbot: hello how can help you:")
+
+#     elif "your name" in user_inp:
+#         print("chatbot: i am simple chatbot:")
+
+#     elif "how can help me" in user_inp:
+#         print("chatbot: as your wish:")
+
+#     else:
+#         print("chatbot: invalid cmd:")
+
+# chatbot()
+
+
+
+
+
+# simple chatbot
+
+# def chatbot():
+#     print("chatbot: i am chatbot ")
+
+#     while True:
+#         user_inp = input("you: ")
+
+#         if user_inp == "hi" or user_inp == "hello":
+#          print("chatbot: hi how can help you")
+
+#         elif "hello" in  user_inp:
+#          print("chatbot: hello friend")
+
+#         else:
+#          print("chatbot: invalid")
+
+# chatbot()
+
+
+
+
+
+
+# simple chatbot
+
 def chatbot():
-    print("chatbot: i am simple chatbot :")
+    print("chatbot: i am chatbot:")
 
-while True:
-    user_inp = input("you :")
+    while True:
+       user_inp = input("you ")
 
-    if user_inp == "hi"  or user_inp ==  "hello ":
-        print("charbot: hello how can help you:")
+       if user_inp == "hi":
+           print("chatbot: hi friend")
 
-    elif "your name" in user_inp:
-        print("chatbot: i am simple chatbot:")
+       elif "hello" in user_inp:
+          print("chatbot: hello how can i help you: ")
 
-    elif "how can help me" in user_inp:
-        print("chatbot: as your wish:")
+       elif "your name" in user_inp:
+          print("chatbot: my name is chatbot:")
 
-    else:
-        print("chatbot: invalid cmd:")
+       else:
+          print("chatbot: invalid")
 
 chatbot()
+        
+

@@ -80,3 +80,13 @@ print(x.strftime("%a"))
 import datetime
 x = datetime.datetime(2023,3,4)
 print(x)
+
+
+
+import datetime
+x = datetime.datetime(2026,1,3)
+print(x)
+
+import datetime
+x = datetime.datetime.now()
+print(x)
